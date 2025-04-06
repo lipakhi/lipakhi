@@ -17,5 +17,5 @@ I'm a web developer and machine learning enthusiast passionate about building sm
 - Deepening understanding of core DSA concepts
 
 ## 📫 Get in Touch
-- [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/lipakhi-tripathy/))
+- [LinkedIn](https://www.linkedin.com/in/lipakhi-tripathy/)
 
