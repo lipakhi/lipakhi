@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there, I'm Lipakhi 👋
 
-<!--
-**lipakhi/lipakhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer and machine learning enthusiast passionate about building smart, efficient applications. I actively work on sharpening my Data Structures and Algorithms skills while exploring real-world tech solutions.
 
-Here are some ideas to get you started:
+# 💻 What I Do
+- Build responsive, modern web applications
+- Explore and implement machine learning models
+- Solve algorithmic problems and improve problem-solving skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🛠️ Languages & Tools
+- Languages: C, C++, Java, Python, JavaScript
+- Tools & Frameworks: React, Node.js, Express, Git
+
+# 📈 Current Focus
+- Full-stack web development projects  
+- Advancing in ML model development and deployment  
+- Deepening understanding of core DSA concepts
+
+# 📫 Get in Touch
+- [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/lipakhi-tripathy/))
+
